@@ -1,7 +1,7 @@
 # bored27-v0.2
 *WARNING: This PCB has not been tested.
 
-bored27 - 27 key PCB based off of flurples' cardboard keyboard: https://www.youtube.com/watch?v=sVInBOLSqoM <br />
+bored27 - 27 key PCB inspired by flurples' cardboard keyboard: https://www.youtube.com/watch?v=sVInBOLSqoM <br />
 designed for use with plate provided in original video description
 
 changes from v0.1: <br />
