@@ -7,3 +7,5 @@ designed for use with plate provided in original video description
 changes from v0.1: <br />
 moved diodes to front (inspired by mode designs' pcbs) <br />
 changed from atmega32u4 to atmega32u2 (less components, more compact, cheaper)
+
+designed w/ kicad
