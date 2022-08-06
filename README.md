@@ -1,9 +1,9 @@
 # bored27-v0.2
 *WARNING: This PCB has not been tested.
 
-bored27 - 27 key PCB based off of flurples' cardboard keyboard: https://www.youtube.com/watch?v=sVInBOLSqoM
+bored27 - 27 key PCB based off of flurples' cardboard keyboard: https://www.youtube.com/watch?v=sVInBOLSqoM <br />
 designed for use with plate provided in original video description
 
-changes from v0.1:
-moved diodes to front (inspired by mode designs' pcbs)
+changes from v0.1: <br />
+moved diodes to front (inspired by mode designs' pcbs) <br />
 changed from atmega32u4 to atmega32u2 (less components, more compact, cheaper)
